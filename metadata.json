@@ -1,0 +1,6 @@
+{
+  "name": "PulseSync",
+  "description": "Real-time wearable fitness and health tracker with live telemetry and manual workout logger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
